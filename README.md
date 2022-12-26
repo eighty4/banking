@@ -1,6 +1,12 @@
-# banking
+# Banking
 
 Your Banking supercenter app
+
+## Goals
+
+This project's primary goal is to be a reference implementation for [eighty4/trousers](https://github.com/eighty4/trousers).
+
+Additional goals include incorporating OCR and PDF reporting capabilities to enhance tax deduction workflows for business owners.
 
 ## Getting Started
 
